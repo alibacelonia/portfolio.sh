@@ -1,0 +1,42 @@
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: "Courier New", monospace;
+    margin: 0;
+    padding: 0;
+    font-size: 14px; /* 👈 Base size for all text */
+    line-height: 1.4;
+}
+
+#terminal {
+    position: relative;
+    height: 100vh;         /* fill viewport */
+    padding: 1em;
+    overflow-y: auto;        /* scrollbar appears only when needed */
+    box-sizing: border-box;
+}
+
+
+.prompt {
+    color: #0f0;
+}
+
+#command {
+    caret-color: #0f0; /* green blinking cursor */
+    background: none;
+    border: none;
+    color: #0f0;
+    outline: none;
+    font-family: inherit;
+    width: 80%;
+    font-size: 14px; /* 👈 Base size for all text */
+}
+
+#output {
+  scroll-behavior: smooth;
+  white-space: pre-wrap;
+  margin-bottom: 0.5em;
+  font-size: inherit;
+  text-shadow: 0 0 3px #0f0; /* glowing text */
+}
+

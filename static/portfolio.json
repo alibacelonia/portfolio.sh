@@ -1,0 +1,90 @@
+{
+  "name": "Mohammed Ali B. Abdullah",
+  "title": "Software Developer / DevOps Engineer",
+  "summary": "Results-driven Software Developer with 6+ years of experience in full-stack and DevOps development, specializing in Python, Django, JavaScript, and cloud deployments. Skilled in designing, deploying, and maintaining scalable systems with Terraform, Docker, and CI/CD automation across AWS and Azure. Passionate about building high-performing systems and delivering innovative, reliable solutions that enhance user experience.",
+  "contact": {
+    "email": "alibacelonia1234@gmail.com",
+    "phone": "+63 961 639 8508",
+    "location": "Taguig, Metro Manila, Philippines",
+    "linkedin": "https://www.linkedin.com/in/alibacelonia"
+  },
+  "skills": {
+    "Cloud & DevOps": [
+      "Terraform",
+      "CDK for Terraform (CDKTF)",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Docker Compose",
+      "Nginx",
+      "AWS CLI",
+      "CloudWatch",
+      "CI/CD (Azure Pipelines, GitHub Actions, GitLab CI)"
+    ],
+    "Programming & Scripting": [
+      "Python",
+      "C#",
+      "TypeScript",
+      "JavaScript",
+      "Bash"
+    ],
+    "Version Control": ["Git", "GitHub", "GitLab"],
+    "Web Frameworks": ["Django", "Flask", "ASP.NET MVC", "React.js", "HTML", "CSS"],
+    "Databases": ["PostgreSQL", "MySQL", "SQL Server", "SQLite"]
+  },
+  "experience": [
+    {
+      "role": "Application Systems Engineer",
+      "company": "Fujitsu Philippines",
+      "location": "Bonifacio Global City",
+      "period": "July 2022 – Present",
+      "achievements": [
+        "Automated AWS infrastructure provisioning using Terraform and CDKTF, enhancing deployment consistency and scalability.",
+        "Built and maintained CI/CD pipelines for Django-based applications using Azure Pipelines and GitHub Actions.",
+        "Deployed containerized Django apps to AWS Lightsail, improving application availability and reducing hosting costs.",
+        "Diagnosed and resolved critical production issues, ensuring system stability and uptime.",
+        "Mentored team members on DevOps best practices, containerization, and infrastructure automation."
+      ]
+    },
+    {
+      "role": "Admin Officer II (Software Developer)",
+      "company": "Department of Agriculture",
+      "location": "San Fernando City, La Union",
+      "period": "March 2021 – June 2022",
+      "achievements": [
+        "Developed a Python desktop app using OpenCV and MoviePy to automate geospatial watermarking on drone videos, reducing processing time by 40%.",
+        "Built an iOS geotagging camera app using Swift to embed geospatial data and branding automatically.",
+        "Developed an Android drone flight app similar to DJI GO 4, integrating real-time geotagging."
+      ]
+    },
+    {
+      "role": "Project Assistant I (Web Developer)",
+      "company": "Department of Agriculture",
+      "location": "San Fernando City, La Union",
+      "period": "June 2020 – March 2021",
+      "achievements": [
+        "Migrated DARFO1’s website from Joomla to WordPress, improving performance and content management.",
+        "Developed an ASP.NET MVC dashboard for real-time data analytics, enhancing executive decision-making.",
+        "Implemented a Google Sheets-based form with JavaScript validation, streamlining data collection."
+      ]
+    },
+    {
+      "role": "Application Developer",
+      "company": "Universal Leaf Philippines Incorporated",
+      "location": "Agoo, La Union",
+      "period": "June 2018 – December 2019",
+      "achievements": [
+        "Developed OneHRMS modules for personnel management, timekeeping, and payroll, improving HR operations.",
+        "Built and deployed HR web applications, including Leave & Benefits Management, increasing efficiency.",
+        "Optimized SQL scripts for stored procedures and job scheduling, reducing data processing time by 25%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Information Technology",
+      "school": "Don Mariano Marcos Memorial State University",
+      "location": "San Fernando City, La Union"
+    }
+  ]
+}
